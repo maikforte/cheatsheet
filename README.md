@@ -28,5 +28,6 @@
 - `npm --v` Get NPM version
 
 ## Angular CLI
+- `ng new <project_name>` Creates new project within the folder
 - `ng generate component <directory>/componentName` Generates Angular component (in `/app` folder)
 - `ng generate service <directory>/serviceName` Generates Angular service (in `/app` folder)
