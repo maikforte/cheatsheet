@@ -6,6 +6,7 @@
 1. [Heroku](#heroku)
 1. [Node](#node)
 1. [NPM](#npm)
+1. [Angular CLI](#angular-cli)
 
 ## Ionic 4
 - `ionic generate <type> <name> [options]`
@@ -25,3 +26,7 @@
 
 ## NPM
 - `npm --v` Get NPM version
+
+## Angular CLI
+- `ng generate component <directory>/componentName` Generates Angular component (in `/app` folder)
+- `ng generate service <directory>/serviceName` Generates Angular service (in `/app` folder)
