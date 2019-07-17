@@ -7,6 +7,8 @@
 1. [Node](#node)
 1. [NPM](#npm)
 1. [Angular CLI](#angular-cli)
+1. [Redis](#redis)
+1. [RedisQueue](#redisqueue)
 
 ## Ionic 4
 - `ionic generate <type> <name> [options]`
@@ -31,3 +33,9 @@
 - `ng new <project_name>` Creates new project within the folder
 - `ng generate component <directory>/componentName` Generates Angular component (in `/app` folder)
 - `ng generate service <directory>/serviceName` Generates Angular service (in `/app` folder)
+
+## Redis
+- `redis-server` Stars the RedisServer
+
+## RedisQueue
+- `rqworker` Starts the RedisQueue worker
