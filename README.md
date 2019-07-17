@@ -10,6 +10,7 @@
 1. [Redis](#redis)
 1. [RedisQueue](#redisqueue)
 1. [Design References](#design-references)
+1. [Design Tools](#design-tools)
 
 ## Ionic 4
 - `ionic generate <type> <name> [options]`
@@ -42,4 +43,7 @@
 - `rqworker` Starts the RedisQueue worker
 
 ## Design References
-- [WebFrame](https://webframe.xyz) Discover and be inspired by beautiful webapp designs
+- [WebFrame](https://webframe.xyz) - Discover and be inspired by beautiful webapp designs
+
+## Design Tools
+- [Lunacy](https://icons8.com/lunacy?ref=producthunt) - Sketch for Windows
