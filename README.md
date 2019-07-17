@@ -3,6 +3,7 @@
 # Table of contents
 1. [Design References](#design-references)
 1. [Design Tools](#design-tools)
+1. [Miscellaneous](#miscellaneous)
 1. [Commands](#commands)
     1. [Ionic 4](#ionic-4)
     1. [Kubernetes](#kubernetes)
@@ -18,6 +19,9 @@
 
 ## Design Tools
 - [Lunacy](https://icons8.com/lunacy?ref=producthunt) - Sketch for Windows
+
+## Miscellaneous
+- [Checklist](https://www.checklist.design) - Common checklist for common pages
 
 ## Commands
 
