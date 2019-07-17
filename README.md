@@ -9,6 +9,7 @@
 1. [Angular CLI](#angular-cli)
 1. [Redis](#redis)
 1. [RedisQueue](#redisqueue)
+1. [Design References](#design-references)
 
 ## Ionic 4
 - `ionic generate <type> <name> [options]`
@@ -39,3 +40,6 @@
 
 ## RedisQueue
 - `rqworker` Starts the RedisQueue worker
+
+## Design References
+- [WebFrame](https://webframe.xyz) Discover and be inspired by beautiful webapp designs
