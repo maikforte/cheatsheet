@@ -4,14 +4,14 @@
 1. [Design References](#design-references)
 1. [Design Tools](#design-tools)
 1. [Commands](#commands)
-  1. [Ionic 4](#ionic-4)
-  1. [Kubernetes](#kubernetes)
-  1. [Heroku](#heroku)
-  1. [Node](#node)
-  1. [NPM](#npm)
-  1. [Angular CLI](#angular-cli)
-  1. [Redis](#redis)
-  1. [RedisQueue](#redisqueue)
+  i. [Ionic 4](#ionic-4)
+  i. [Kubernetes](#kubernetes)
+  i. [Heroku](#heroku)
+  i. [Node](#node)
+  i. [NPM](#npm)
+  i. [Angular CLI](#angular-cli)
+  i. [Redis](#redis)
+  i. [RedisQueue](#redisqueue)
   
 ## Design References
 - [WebFrame](https://webframe.xyz) - Discover and be inspired by beautiful webapp designs
