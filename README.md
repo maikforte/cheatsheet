@@ -3,6 +3,7 @@
 # Table of contents
 1. [Design References](#design-references)
 1. [Design Tools](#design-tools)
+1. [Icons](#icons)
 1. [Miscellaneous](#miscellaneous)
 1. [Commands](#commands)
     1. [Ionic 4](#ionic-4)
@@ -19,9 +20,16 @@
 
 ## Design Tools
 - [Lunacy](https://icons8.com/lunacy?ref=producthunt) - Sketch for Windows
+- [RemoveBackground](https://www.remove.bg) - Automatically removes the background from the photo
+
+## Icons
+- [Feather Icons](https://feathericons.com)
 
 ## Miscellaneous
 - [Checklist](https://www.checklist.design) - Common checklist for common pages
+- [Carrd](https://carrd.co) - Create single page
+- [Crello](https://crello.com) - Social Media Post Templating
+- [Hygger](https://hygger.io) - Product Management Tool
 
 ## Commands
 
