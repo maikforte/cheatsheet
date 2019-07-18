@@ -40,6 +40,7 @@
   
 ### Kubernetes
 - `kubectl -n <namespace> get pods`
+- `kubectl logs -n <namespace> <pod_name> -t
 
 ### Heroku
 - `heroku apps` List the Apps of current Heroku user
