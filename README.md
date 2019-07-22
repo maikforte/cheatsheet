@@ -3,6 +3,7 @@
 # Table of contents
 1. [Design References](#design-references)
 1. [Design Tools](#design-tools)
+1. [Mobile App Testing Tools](#mobile-app-testing-tools)
 1. [Icons](#icons)
 1. [Miscellaneous](#miscellaneous)
 1. [Commands](#commands)
@@ -21,6 +22,11 @@
 ## Design Tools
 - [Lunacy](https://icons8.com/lunacy?ref=producthunt) - Sketch for Windows
 - [RemoveBackground](https://www.remove.bg) - Automatically removes the background from the photo
+
+## Mobile App Testing Tools
+- [Appium](http://appium.io)
+- [Robotium](https://github.com/robotiumtech/robotium)
+- [Selendroid](http://selendroid.io)
 
 ## Icons
 - [Feather Icons](https://feathericons.com)
