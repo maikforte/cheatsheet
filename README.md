@@ -41,12 +41,13 @@
 
 ### Ionic 4
 - `ionic generate <type> <name> [options]`
-  - `npx ng g --help` Get list of Types
+  - `npx ng g --help` List Types
   - `npx ng g <type> --help` Get options per Type
   
 ### Kubernetes
-- `kubectl -n <namespace> get pods`
-- `kubectl logs -n <namespace> <pod_name> -f`
+- `kubectl -n <namespace> get pods` List pods
+- `kubectl logs -n <namespace> <pod_name> -f` Show pod logs
+- `kubectl exec -it -n <name_space> <pod_name> -- /bin/bash` SSH into pod
 
 ### Heroku
 - `heroku apps` List the Apps of current Heroku user
