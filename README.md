@@ -22,6 +22,7 @@
 ## Design Tools
 - [Lunacy](https://icons8.com/lunacy?ref=producthunt) - Sketch for Windows
 - [RemoveBackground](https://www.remove.bg) - Automatically removes the background from the photo
+- [Coolors](https://coolors.co) - Color Palette Generator
 
 ## Mobile App Testing Tools
 - [Appium](http://appium.io)
