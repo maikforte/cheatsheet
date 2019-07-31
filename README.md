@@ -9,6 +9,7 @@
 1. [Commands](#commands)
     1. [Ionic 4](#ionic-4)
     1. [Kubernetes](#kubernetes)
+    1. [Docker](#docker)
     1. [Heroku](#heroku)
     1. [Node](#node)
     1. [NPM](#npm)
@@ -49,6 +50,14 @@
 - `kubectl -n <namespace> get pods` List pods
 - `kubectl logs -n <namespace> <pod_name> -f` Show pod logs
 - `kubectl exec -it -n <name_space> <pod_name> -- /bin/bash` SSH into pod
+
+### Docker
+- `docker image ls` List images
+- `docker image prune` Cleans up unused image(s)
+- `docker image rm <image_id>` Removes an image
+- `docker ps` List running containers
+- `docker kill <container_id>` Kills running container(s)
+- `docker build <project_path>` Builds a docker image
 
 ### Heroku
 - `heroku apps` List the Apps of current Heroku user
