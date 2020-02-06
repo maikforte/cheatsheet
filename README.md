@@ -62,6 +62,7 @@
 - `docker container run <image_tag>` Runs a Docker container from the image
     - `docker container run --publish <host_port>:<container_port> <image_tag>` Runs a Docker container forwarding all traffic from host port to container port
     - `... --name <container_name>` Runs a Docker container while specifying a container name
+- `docker-compose up` Run series of Docker containers declared in `docker-compose.yml`
 
 ### Heroku
 - `heroku apps` List the Apps of current Heroku user
