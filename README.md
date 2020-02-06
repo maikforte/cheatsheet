@@ -58,6 +58,10 @@
 - `docker ps` List running containers
 - `docker kill <container_id>` Kills running container(s)
 - `docker build <project_path>` Builds a docker image
+    - `docker image build -t <image_tag> <project_path>` Builds a docker image with tag
+- `docker container run <image_tag>` Runs a Docker container from the image
+    - `docker container run --publish <host_port>:<container_port> <image_tag>` Runs a Docker container forwarding all traffic from host port to container port
+    - `... --name <container_name>` Runs a Docker container while specifying a container name
 
 ### Heroku
 - `heroku apps` List the Apps of current Heroku user
