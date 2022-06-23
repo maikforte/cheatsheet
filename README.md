@@ -16,6 +16,8 @@
     1. [Angular CLI](#angular-cli)
     1. [Redis](#redis)
     1. [RedisQueue](#redisqueue)
+    1. [Terraform](#terraform)
+        1. [Deployment](#terraform-deployment) 
   
 ## Design References
 - [WebFrame](https://webframe.xyz) - Discover and be inspired by beautiful webapp designs
@@ -85,3 +87,10 @@
 
 ### RedisQueue
 - `rqworker` Starts the RedisQueue worker
+
+### Terraform
+## Terraform Deployment
+1. `terraform init` - Initializes Terraform 
+1. `terraform workspace select dev`
+1. `terraform plan` - Creates execution plan
+1. `terraform apply -target=<resource>` - Creates Infra according to terraform configuration. Also takes multiple target in a single command. `-target=<resource_1> -target=<resource_2>`
