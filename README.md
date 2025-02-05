@@ -34,6 +34,13 @@
 
 ## Icons
 - [Feather Icons](https://feathericons.com)
+- [Fontawesome](https://fontawesome.com/icons/angular?f=brands&s=solid)
+- [Ionicons](https://ionic.io/ionicons)
+- [GoogleFonts](https://fonts.google.com/icons)
+- [MatIcons](https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/)
+- [Tabler Icons](https://tabler.io/icons)
+- [Material Design Icons](https://jossef.github.io/material-design-icons-iconfont/)
+- [AntDesign](https://ant.design/components/icon)
 
 ## Miscellaneous
 - [Checklist](https://www.checklist.design) - Common checklist for common pages
